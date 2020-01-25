@@ -1,6 +1,31 @@
 # Algorithmic-Trading
 
 A repository containing practice examples of algorithmic trading strategies as well as novel trading ideas.
+
+**Algorithmic Trading** is defined as the buiying and selling of financial instruments using predefined rules (algorithms). These algorithms are tested on historical data before used in live trading, i.e. backtested. 
+
+The emergence of this new field is mainly due to market liquidity, lower transaction costs, the need to eliminate irrational trading and lower regulations in certain economies.
+
+**Focus of Strategies:** can be on
+
+- Speed of transaction (HFT)
+
+- Fundamental Analysis (DCF)
+
+- Technical Analysis (Pairs Trading, Momentum)
+
+- Text Mining (NLP)
+
+**Fundamental data used in Quant Trading include:**
+
+- Liquidity
+
+- ROA, ROE, D/E
+
+- Cash Flow
+
+- Market Capitalisation
+
 Algorithmic strategies can be categorised as follows:
 
 **1. Momentum strategies:**
