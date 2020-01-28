@@ -91,4 +91,3 @@ right tool. Excel can be an excellent tool for basic algorithm trading strategie
 lower frequency transactions. It can also be used to check how different basic
 algorithms perform. It is also good when you want to have access to data instantly.
 
-#SECOND
